@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "My Extension",
+    "version": "0.0.1",
+    "description": "My Extension for hello world",
+    "author": "himanshu@batra.io",
+    "icons": {
+        "16": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/icon.png",
+            "48": "images/icon.png",
+            "128": "images/icon.png"
+        },
+        "default_title": "My Amazing Chrome Extension"
+    }
+}
