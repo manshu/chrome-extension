@@ -17,5 +17,6 @@
             "128": "images/icon.png"
         },
         "default_title": "My Amazing Chrome Extension"
-    }
+    },
+    "options_page": "options.html"
 }
